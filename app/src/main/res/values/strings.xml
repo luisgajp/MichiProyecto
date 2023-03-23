@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecondOne</string>
+    <string name="next_player">Turno: %1$s</string>
+    <string name="winner">Ganador</string>
+</resources>
